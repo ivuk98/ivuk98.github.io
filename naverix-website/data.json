@@ -1,0 +1,625 @@
+{
+    "home": {
+        "meta": {
+            "title": "Naverix - Ship inspections. Reinvisioned.",
+            "description": "A complete solution for performing any type of ship inspection. Inspection templates fully customisable to your needs with advanced logic built in."
+        },
+        "content": {
+            "landing": {
+                "title": "Ship inspections. Reinvisioned.",
+                "subtitle": "A complete solution for performing any type of ship inspection. Inspection templates fully customisable to your needs with advanced logic built in. Built with the needs of crew as well as ship management in mind."
+            },
+            "jointVenture": {
+                "title": "Created in joint venture by:",
+                "ventureItems": [
+                    {
+                        "imageUrl": "/images/eureka-logo.svg",
+                        "title": "Eureka marine consultants"
+                    },
+                    {
+                        "imageUrl": "/images/intellego-logo.svg",
+                        "title": "Intellego"
+                    },
+                    {
+                        "imageUrl": "/images/ris-software-logo.svg",
+                        "title": "Ris software"
+                    }
+                ]
+            },
+            "about": {
+                "helperText": "About NAVERIX",
+                "title": "What makes us different?",
+                "items": [
+                    {
+                        "id": 1,
+                        "title": "Built from experience",
+                        "content": "Our founders have 40+ years of experience in all roles from Chief engineer to Sptd level to MD and our goal was to build a tool that aims to support both the Superintendent and Senior officers aboard vessels in performing inspections in a fast, reliable, ergonomic and integrative way."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Built for excellence",
+                        "content": "Our IT team consists of scientists and highly experienced software developers with 30+ years of experience. Our goal is to deliver the best experience and technological solutions to support the vision of our founders."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Custom inspections. Built for you.",
+                        "content": "You need an inspection template? We will design one for your and let your people perform inspections using it. You need a docking document? Balast tank inspection document? Cargo tank? VIQ? QCR? We can build it. Fast."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Focused on doing the right job and the job right.",
+                        "content": "We are focused on not disrupting your crews normal workflow but instead enable them to perform inspections from anywhere they are while ensuring consistency and quality of findings."
+                    },
+                    {
+                        "id": 5,
+                        "title": "Built with integrations in mind",
+                        "content": "Connect to API of your PMS to create work orders from NAVERIX. Stay notified of their status."
+                    }
+                ]
+            },
+            "features": {
+                "helperText": "Features",
+                "title": "Key features of the NAVERIX system",
+                "items": [
+                    {
+                        "id": 1,
+                        "number": "01",
+                        "title": "Use ours or let us develop inspections tailored to your needs",
+                        "content": "Our smart template's editor  allow us to develop inspections templates specific to your company and deliver them fast.Templates can include various attributes, conditions, references, instructions. Or you just use our templates, ready from the shelves.                        ",
+                        "listItems": [],
+                        "imageUrl": "/images/features-1.png",
+                        "imageAlt": "Inspections"
+                    },
+                    {
+                        "id": 2,
+                        "number": "02",
+                        "title": "Fill out inspections in your cabin or on the move using our mobile app",
+                        "content": "Whether in the ballast tanks or in the cabin, our mobile platform allows you to complete inspections in an ergonomic manner, filling out sections as you go, and uploading it directly to the cloud as soon as you are connected to the internet.",
+                        "listItems": [
+                            "Real-time updates between the mobile and desktop with internet",
+                            "Eliminate overlaps with role-specific delegations of sections"
+                        ],
+                        "imageUrl": "/images/features-2.png",
+                        "imageAlt": "Fill out"
+                    },
+                    {
+                        "id": 3,
+                        "number": "03",
+                        "title": "Superintendent and his team can collaborate with senior officers on board to resolve defficiencies",
+                        "content": "Senior officers and superintendents are notified of any reported defficiencies and can collaborate on their resolution, enhancing the current process by having everyone in the loop.",
+                        "listItems": [
+                            "Collaborate with the whole team on a single platform",
+                            "Immediately resolve defficiencies on board or plan for them when ashore"
+                        ],
+                        "imageUrl": "/images/features-3.png",
+                        "imageAlt": "Collaborate"
+                    }
+                ]
+            },
+            "roadmap": {
+                "helperText": "Timeline",
+                "title": "Our Roadmap",
+                "roadmapItems": [
+                    {
+                        "date": "August, 2021",
+                        "title": "Platform idea",
+                        "description": "We can create a better system for doing inspections!"
+                    },
+                    {
+                        "date": "December, 2022",
+                        "title": "Initial specification",
+                        "description": "Let’s write it down to make sure we cover all phases and aspects of this complex process"
+                    },
+                    {
+                        "date": "January, 2022",
+                        "title": "Development start",
+                        "description": "Let’s make it happen!"
+                    },
+                    {
+                        "date": "March, 2022",
+                        "title": "Initial pitch",
+                        "description": "We presented the initial idea at our startup hub"
+                    },
+                    {
+                        "date": "September, 2022",
+                        "title": "Presentation to CEOs",
+                        "description": "We presented our solution to highly experienced CEOs of ship management companies to get more valuable feedback from their perspective"
+                    }
+                ]
+            },
+            "meetOurTeam": {
+                "helperText": "Team",
+                "title": "Meet our team",
+                "teamMembers": [
+                    {
+                        "imgSrc": "/images/team-1.svg",
+                        "name": "Igor Jugo PhD IT",
+                        "title": "Software lead",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/igorjugo/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    },
+                    {
+                        "imgSrc": "/images/team-2.svg",
+                        "name": "Ivan Blažina, mech. ing.",
+                        "title": "Board member",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/ivan-blazina-7a3089b/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    },
+                    {
+                        "imgSrc": "/images/team-3.svg",
+                        "name": "Raul Matović. mech. ing.",
+                        "title": "Board member",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/raul-matovic-5b17a88/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    },
+                    {
+                        "imgSrc": "/images/team-4.svg",
+                        "name": "Mile Pavlić, PhD IT",
+                        "title": "Board member",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/mile-pavlic-31122313/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "faq": {
+                "helperText": "FAQ",
+                "title": "Frequently asked questions",
+                "questionGroups": [
+                    {
+                        "groupTitle": "General Questions",
+                        "iconSrc": "/images/icons/bx-help-circle.svg",
+                        "questions": [
+                            {
+                                "question": "Who is Naverix for?",
+                                "answer": "<b>Ship management companies</b> of any size can benefit from Naverix. It is a great tool for performing inspections of any type or just gathering data using custom forms. It’s easy to configure and deploy to your ships. What you get is an ultra-focused tool for performing inspections using our smart templates, improving the speed and quality of findings, enabling shore-ship collaboration, generating and sharing reports, and access to advanced data analytics that transform the inspection process entirely.<br/><br/><b>Freelance inspectors</b> will also be able to use NAVERIX soon. They will be able to receive requests for their services through our mobile application and perform inspections using our smart templates. The report will be automatically available to the company that requested the service/inspection, simplifying the process.<br/><br/><b>Ship owners</b> will also be able to use NAVERIX soon. They will be able to access finalized reports and/or receive monthly or annual deep data analytics of their ships or fleets (depending on service levels purchased)."
+                            },
+                            {
+                                "question": "How can I learn more about Naverix?",
+                                "answer": "You can send us a message using the contact form below or call us using the number displayed beside the contact form. Once we get in touch, we will try to learn more about your needs and provide you with the best options. We can also schedule a demo of NAVERIX and answer all of your questions."
+                            },
+                            {
+                                "question": "What are the key benefits of using Naverix?",
+                                "answer": "First of all, you make the inspection process continuous, meaning inspections are still specific snapshots of the state of the vessel at a certain point in time, but Naverix enables you to store all of the data and the findings, and can keep you updated on all the issues found in previous inspections on specific items (e.g., lifeboat issues), preventing detention issues from arising.<br/><br/>All the benefits of digitally transformed processes: data is stored in the cloud and available at all times, no paper is involved, shore-ship collaboration is enabled, reports are practically completed as soon as data collection is completed, speed is increased while quality of findings is improved using our built-in help features.<br/><br/>  Smart templates reduce the load on the crew by displaying only items relevant to the ship on which the inspection is being performed....<br/><br/>Our mobile and web application enables senior officers to start filling out the inspection document in their offices, while other crew members can fill out the form on-the-go using our mobile application (which works fine anywhere on the ship on an intrinsically safe smartphone)."
+                            },
+                            {
+                                "question": "How are you different from other inspection form solutions?",
+                                "answer": "Flexibility - We are a startup that can easily adapt to the changing needs of our clients.<br/><br/>Template editor - Our forms are not static - through our powerful template editor, we can customize standard templates and build new ones tailored to your exact needs very quickly.<br/><br/>Smart templates - Our templates adapt to the ship on which the inspection is being performed, reducing the load on the crew and making the process faster.<br/><br/>Smart dashboards - for the superintendents and their teams ashore, and the senior officers on ships.<br/><br/>Web and mobile application - offering multiple options for answering inspection questions and gathering data (photos, videos) from anywhere on the ship, synchronizing in the cloud.<br/><br/>Report generator - receive reports formatted to the exact structure as defined in your SAS documents. Reports are completed much faster than before, and sharing the report with any stakeholders is super easy.<br/><br/>Advanced data analysis for management for improved decision making.<br/><br/>So much more is coming soon"
+                            }
+                        ]
+                    },
+                    {
+                        "groupTitle": "Templates & Inspections",
+                        "iconSrc": "/images/icons/bx-receipt.svg",
+                        "questions": [
+                            {
+                                "question": "What is NAVERIX?",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            },
+                            {
+                                "question": "How can I use NAVERIX??",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            },
+                            {
+                                "question": "What are the key benefits of using NAVERIX??",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            },
+                            {
+                                "question": "How are you different that other inspection form solutions??",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            }
+                        ]
+                    },
+                    {
+                        "groupTitle": "Roadmap",
+                        "iconSrc": "/images/icons/bx-timer.svg",
+                        "questions": [
+                            {
+                                "question": "What is NAVERIX?",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            },
+                            {
+                                "question": "How can I use NAVERIX??",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            },
+                            {
+                                "question": "What are the key benefits of using NAVERIX??",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            },
+                            {
+                                "question": "How are you different that other inspection form solutions??",
+                                "answer": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "contact": {
+                "helperText": "Contact us",
+                "title": "Get in touch"
+            }
+        }
+    },
+    "about": {
+        "meta": {
+            "title": "Naverix - Ship inspections. Reinvisioned.",
+            "description": "A complete solution for performing any type of ship inspection. Inspection templates fully customisable to your needs with advanced logic built in."
+        },
+        "content": {
+            "about": {
+                "helperText": "About NAVERIX",
+                "title": "What is NAVERIX?",
+                "comment": "A completely new digital platform, created jointly by maritime and IT experts, enabling complete digital transformation of performing all kinds of inspections aboard commercial vessels."
+            },
+            "vision": {
+                "items": [
+                    {
+                        "id": 0,
+                        "title": "Vision",
+                        "content": "Integrated HSSEQ management and checks"
+                    },
+                    {
+                        "id": 1,
+                        "title": "Mission",
+                        "content": "To combine maritime and IT expertise and ideas to make the vision a reality"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Goal",
+                        "content": "Our goal is to remove the unnecessary and create an environment where the knowledge worker can make the most of his skills and time for professional fulfilment and the company’s well-being."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Values",
+                        "content": "Teamwork. Digital inspection forms on mobile devices and computers enable cooperation regardless of the location of the participants. Quick adaptation of forms to the user’s way of working. Company references and instructions with questions. An intuitive graphic approach to the inspections of ballast tanks. Centralized management of findings and deficiencies ready for a two-way connection with the PMS (planned maintenance system). Dashboards are adapted to every management level, providing key data at a glance at the screen."
+                    }
+                ]
+            },
+            "naverixSolution": {
+                "title": "More about the Naverix solution",
+                "items": [
+                    {
+                        "title": "OFFICE <-> FLEET INTEGRATION",
+                        "iconSrc": "/images/icons/link.svg",
+                        "description": "Cloud based architecture enables the ship management office to remain in sync with all of the ships under it’s management. "
+                    },
+                    {
+                        "title": "Configurable and customisable",
+                        "iconSrc": "/images/icons/fingerprint.svg",
+                        "description": "Our inspection editor can create standardised or fully customised inspection forms based on client requirements."
+                    },
+                    {
+                        "title": "WORK ABOVE AND BELOW DECK",
+                        "iconSrc": "/images/icons/broken-link.svg",
+                        "description": "Fill out inspections in your cabin/office on your laptop/PC, and continue using our mobile app even when offline. The app will sync the data you input when it gets back online."
+                    },
+                    {
+                        "title": "Data analysis",
+                        "iconSrc": "/images/icons/graph.svg",
+                        "description": "See trends and issues across your fleets, ship types, and sections. Analyses optimised for each management level of technical and marine departments."
+                    },
+                    {
+                        "title": "PMS integration ready",
+                        "iconSrc": "/images/icons/refresh.svg",
+                        "description": "Deficiencies found during inspections become tasks in PMS, and once resolved, the status on the deficiencies list is automatically updated. Note: two-way integration requires PMS maker consent."
+                    },
+                    {
+                        "title": "KNOWLEDGE BASED SUPPORT",
+                        "iconSrc": "/images/icons/hammer.svg",
+                        "description": "Use integrated standard references, company instructions or knowledge based support features to increase the quality of inspection findings."
+                    },
+                    {
+                        "title": "SENIOR OFFICERS COLLABORATION",
+                        "iconSrc": "/images/icons/anchor.svg",
+                        "description": "After everything is inspected, senior officers can discuss the findings and correct what is possible with the ship’s resources. The remaining issues became part of the inspection report."
+                    },
+                    {
+                        "title": "work on reports",
+                        "iconSrc": "/images/icons/chat-bubbles.svg",
+                        "description": "Vessel managers can access reports online and discuss trends, indicators, and corrective actions without leaving the app. Access to external entities, like owners, is possible as well."
+                    }
+                ]
+            },
+            "processExplained": {
+                "helperText": "The process",
+                "title": "A sample process, explained.",
+                "imgSrc": "/images/process-explained.svg",
+                "imgAlt": "Process explained",
+                "description": "Please note that the process varies depending on type of inspection - the process shown above is most suitable for preparatory VIQ/RISQ inspections. When a superintendent performs a quarterly inspection himself there are no collaborating parties."
+            }
+        }
+    },
+
+    "team": {
+        "meta": {
+            "title": "Naverix - Ship inspections. Reinvisioned.",
+            "description": "A complete solution for performing any type of ship inspection. Inspection templates fully customisable to your needs with advanced logic built in."
+        },
+        "content": {
+            "team": {
+                "helperText": "Team",
+                "title": "Meet our team",
+                "comment": "We are an IT company built on know how from the maritime industry focused on providing new solutions that help digitaly transform  ship management.",
+                "teamMembers": [
+                    {
+                        "imgSrc": "/images/team-2.svg",
+                        "name": "Ivan Blažina, mech. ing.",
+                        "title": "Board member",
+                        "description": "After years at sea as a Chief Engineer, Ivan continued his maritime career on land. He worked as a Superintendent and Purchasing Manager for Thome Ship Management. He spent the last nine years as a Group Purchasing Director and Managing Director in the Anglo-Eastern group, working from Singapore and Hong Kong. In addition to other achievements, Ivan introduced SPC (a single point of contact), globally consolidated the group's procurement and reduced the number of suppliers by six times.",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/ivan-blazina-7a3089b/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    },
+                    {
+                        "imgSrc": "/images/team-3.svg",
+                        "name": "Raul Matović. mech. ing.",
+                        "title": "Board member",
+                        "description": "Raul spent 16 years at sea, during which time he served in all ranks up to Chief Engineer. During this time he served on various ship types including oil and chemical tankers, general cargo vessels, container vessels, ro-ro vessels, bulk-carriers and passenger ships. Since moving ashore in 1991 Raul has gained experience in many aspects of vessel management, ship and machinery repairs, conversion and new buildings and has held positions ranging from Superintendent engineer to Managing Director with Thome Group in Singapore.  In year 2018 Raul start own consulting company in Singapore.",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/raul-matovic-5b17a88/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    },
+                    {
+                        "imgSrc": "/images/team-4.svg",
+                        "name": "Mile Pavlić, PhD IT",
+                        "title": "Board member",
+                        "description": "Mile is a entrepreneur and a full time professor, achieving success in both business and academical fields. His company “RIS” which he co-founded in 1993 has been developing complex business information systems for clients like the Croatian National Television and Croatia Osiguranje (the largest insurance agency in Croatia) for decades, recently moving towards web based solutions. While leading his company from humble beginnings to over 50 employees he also climbed the academic ladder to the title of full professor at University of Rijeka, Faculty of Informatics and Digital technologies.",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/mile-pavlic-31122313/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    },
+                    {
+                        "imgSrc": "/images/team-1.svg",
+                        "name": "Igor Jugo PhD IT",
+                        "title": "Software lead",
+                        "description": "After working at the University of Rijeka, Faculty of Informatics and Digital Technologies for 14 years, where he obtained MSc in optimizing performance of web applications and PhD in educational data mining while also developing complex web solutions for clients of his previous company he took on a management role as CIO of Clinical Hospital Center in Rijeka after which he moved full time to his new company Intellego, which is an IT consultancy specialised in web solutions and IT service management.",
+                        "socials": [
+                            {
+                                "href": "https://www.linkedin.com/in/igorjugo/",
+                                "iconSrc": "/images/icons/linkedin.svg",
+                                "alt": "LinkedIn"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "jointVenture": {
+                "ventureItems": [
+                    {
+                        "imageUrl": "/images/eureka-logo.svg",
+                        "title": "Eureka marine consultants"
+                    },
+                    {
+                        "imageUrl": "/images/intellego-logo.svg",
+                        "title": "Intellego"
+                    },
+                    {
+                        "imageUrl": "/images/ris-software-logo.svg",
+                        "title": "Ris software"
+                    }
+                ]
+            }
+        }
+    },
+    "roadmap": {
+        "meta": {
+            "title": "Naverix - Ship inspections. Reinvisioned.",
+            "description": "A complete solution for performing any type of ship inspection. Inspection templates fully customisable to your needs with advanced logic built in."
+        },
+        "content": {
+            "roadmap": {
+                "helperText": "Our ROADMAP",
+                "title": "The Naverix Roadmap",
+                "comment": "As we aim for digital transformation of many aspects of ship management we set our goals beyond the horizon with a map to follow to accomplish our goals.",
+                "timelineItems": [
+                    {
+                        "date": "August, 2021",
+                        "title": "Platform idea",
+                        "description": "We can create a better system for doing inspections!",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "December, 2021",
+                        "title": "Initial specification",
+                        "description": "Let’s write it down to make sure we cover all phases and aspects of this complex process",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "January, 2022",
+                        "title": "Development start",
+                        "description": "Let’s make it happen!",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "March, 2022",
+                        "title": "Initial pitch",
+                        "description": "We presented the initial idea at our startup hub",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "June, 2022",
+                        "title": "Presentation for maritime professionals and academics",
+                        "description": "We presented an initial graphic prototype to captains, superintendents and academics to gather valuable feedback",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "September, 2022",
+                        "title": "Presentation to fleet managers",
+                        "description": "We presented our solution to a number of fleet managers from Rotterdam to Singapore to get more valuable feedback from their perspective",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "October, 2022",
+                        "title": "Presentation to CEOs",
+                        "description": "We presented our solution to highly experienced CEOs of ship management companies to get more valuable feedback from their perspective",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "December, 2022",
+                        "title": "Presentation to first potential client - a large ship management company",
+                        "description": "We presented our solution to the members of  HSEQ and QA management team",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "February, 2023",
+                        "title": "Deploy to a real world company test",
+                        "description": "We deployed the first version of our systems web application interface to our first potential client",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "March, 2023",
+                        "title": "Make improvements and deploy the new web version",
+                        "description": "Many useful comments from experienced professionals lead to a highly improved product",
+                        "statusIconSrc": "/images/icons/checkmark-checked.svg"
+                    },
+                    {
+                        "date": "April, 2023",
+                        "title": "Deploy mobile application",
+                        "description": "With the addition of our mobile solution the users can experience the full potential of our system",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    },
+                    {
+                        "date": "May, 2023",
+                        "title": "Development of Balast Tank inspections module",
+                        "description": "Our Balast Tanks inspection module brings even more power to the users and makes reporting on balast tanks much more precise while keeping it safe and fast.",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    },
+                    {
+                        "date": "June, 2023",
+                        "title": "Development of Main deck inspections module",
+                        "description": "Our Main Deck inspections module makes another one of our highly specialised modules that combine our know how, the advanced features of NAVERIX and the needs of our clients closer together to achieve the next steps towards full digital transformation of the inspection process.",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    },
+                    {
+                        "date": "September, 2023",
+                        "title": "Upgrade our advanced inspection template editor to create any form you need",
+                        "description": "Our template editor already enables us to create complex, configurable and adaptable inspection templates but it can do much more - create any form you could need to be filled aboard the ship and receive this data instantly",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    },
+                    {
+                        "date": "October, 2023",
+                        "title": "Enable freelance inspectors to use Naverix",
+                        "description": "With the ever growing number of inspection templates we will be happy to welcome freelance inspectors performing inspections using the NAVERIX system per request from various stakeholders",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    },
+                    {
+                        "date": "November, 2023",
+                        "title": "Data analytics module",
+                        "description": "With dozens of inspections performed on ships per year, each inspection containing from 100 to 400 questions the amount of data gathered by the NAVERIX system will rise quickly. To give you relevant information and knowledge to help your decisions making processes we will offer data analytics services",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    },
+                    {
+                        "date": "",
+                        "title": "Much more to come",
+                        "description": ".....stay tuned for more information.... ",
+                        "statusIconSrc": "/images/icons/checkmark-unchecked.svg"
+                    }
+                ]
+            }
+        }
+    },
+    "footer": {
+        "content": {
+            "copy": " © Naverix Inc. Singapore",
+            "subCopy": "Ship inspections. Reinvisioned."
+        },
+        "links": [
+            {
+                "groupName": "Company",
+                "links": [
+                    {
+                        "href": "/#about",
+                        "title": "About us",
+                        "scroll": false
+                    },
+                    {
+                        "href": "/#features",
+                        "title": "Features",
+                        "scroll": false
+                    },
+                    {
+                        "href": "/#team",
+                        "title": "Team",
+                        "scroll": false
+                    },
+                    {
+                        "href": "/#roadmap",
+                        "title": "Roadmap",
+                        "scroll": false
+                    },
+                    {
+                        "href": "/#faq",
+                        "title": "FAQ",
+                        "scroll": false
+                    }
+                ]
+            },
+            {
+                "groupName": "Resources",
+                "links": [
+                    {
+                        "href": "#",
+                        "title": "Terms & conditions",
+                        "scroll": true
+                    },
+                    {
+                        "href": "#",
+                        "title": "Privacy policy",
+                        "scroll": true
+                    }
+                ]
+            },
+            {
+                "groupName": "Pages",
+                "links": [
+                    {
+                        "href": "/",
+                        "title": "More about Naverix",
+                        "scroll": true
+                    },
+                    {
+                        "href": "/team",
+                        "title": "More about Team",
+                        "scroll": true
+                    },
+                    {
+                        "href": "/roadmap",
+                        "title": "Full roadmap",
+                        "scroll": true
+                    }
+                ]
+            }
+        ]
+    }
+}
